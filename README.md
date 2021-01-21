@@ -1,2 +1,2 @@
-# DCGAN (Deep Convolutional Generative Adversial Network)
+## DCGAN (Deep Convolutional Generative Adversial Network)
 
