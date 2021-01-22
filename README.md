@@ -30,7 +30,7 @@ The following is the list of the arguments with explaination:
 - **--beta1** : (float) The beta1 for [Adam](https://arxiv.org/abs/1412.6980). The The default value is `0.5`.
 - **--dataRoot** : (string) Folder of training data. The default path is `data/`.
 - **--outdir** : (string) Folder for output images. The program will make a new folder if the given path does not exist. The default path is `./output`.
-- **--ngpu** : (int) Number of GPUs available. Use 0 for CPU mode.
+- **--ngpu** : (int) Number of GPUs available. Use 0 for CPU mode. The The default value is `1`.
 
 ### Example Training Output
 
