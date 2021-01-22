@@ -1,6 +1,6 @@
 ## DCGAN (Deep Convolutional Generative Adversarial Network)
 
-This is a pytorch implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434). The following is the architecture of the network.
+This is a pytorch implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434). The following image is the architecture of the network.
 
 ![alt tag](imgs/nw.png)
 
