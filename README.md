@@ -33,7 +33,7 @@ The following is the list of the arguments with explaination:
 
 ### Example Training Output
 
-Due to my limitation on GPU/CPU and network, I have train this network on a part of the [cat dataset](https://www.kaggle.com/crawford/cat-dataset) on kaggle. And the following is the training outcome on default argument settings.
+Due to my limitations on GPU/CPU and network, I have train this network on a part of the [cat dataset](https://www.kaggle.com/crawford/cat-dataset) on kaggle. And the following is the training outcome on default argument settings.
 
 #### Training Images
 
