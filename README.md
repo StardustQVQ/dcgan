@@ -15,7 +15,7 @@ You can go to the official website of [pytorch](https://pytorch.org/get-started/
 ### Usage
 
 1. Download the dataset that you want this network to be trained on and put the data set into a `data` folder. You can also specify the path of your dataset with `dataRoot` argument.   
-2. Run $ python train.py with any arguments you want.
+2. Run `python train.py` with any arguments you want.
 
 The following is the list of the arguments with explaination:
 
