@@ -2,7 +2,7 @@
 
 This is a pytorch implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434).The following is the architecture of the network.
 
-![alt tag](img/DCGAN.png)
+![alt tag](img/nw.png)
 
 ### Prerequisites
 
