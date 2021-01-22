@@ -21,7 +21,7 @@ The following is the list of the arguments with explaination:
 
 - **--batchSize** : (int) The batch size of your training set. The default value is `16`. Without a powerful GPU/CPU, A small batch size is recommended.
 - **--imgSize** : (int) Size of your output images. The default value is `64`.
-- **--nz** : (int) Length of the latent z vector. The default value is `100`.
+- **--nz** : (int) Length of the latent `z` vector. The default value is `100`.
 - **--ngf** : (int) Size of feature map in generator. The default value is `64`, which means the default feature map is set to `64x64`.
 - **--ndf** : (int) Size of feature map in discriminator. The default value is `64`.
 - **--epoch** : (int) The number of epochs that you want to train for. The The default value is `15`.
@@ -37,7 +37,7 @@ Due to my limitation on GPU/CPU and network, I have train this network on a part
 
 #### Training Images
 
-![alt tag]()
+![alt tag](imgs/train_imgs.png)
 
 #### Training Loss
 
@@ -45,7 +45,7 @@ Due to my limitation on GPU/CPU and network, I have train this network on a part
 
 #### Comparision between Fake Images and Training Images
 
-![alt tag]()
+![alt tag](imgs/fake.png)
 
 
 
