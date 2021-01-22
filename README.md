@@ -36,7 +36,7 @@ The following is the list of the arguments with explainations:
 
 Due to my limitations on GPU/CPU and network, I have only trained this network with a part of the [cat dataset](https://www.kaggle.com/crawford/cat-dataset) (about 3000 images) on kaggle. And the following is the training outcome on default argument settings (except for the batch size, I set it to `8`).
 
-#### Training Images
+#### Training Images (Partial)
 
 ![alt tag](imgs/train_imgs.png)
 
