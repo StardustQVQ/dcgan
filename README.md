@@ -44,7 +44,7 @@ Due to my limitations on GPU/CPU and network, I have only trained this network o
 
 ![alt tag](imgs/loss1.png)
 
-#### Comparision between Fake Images and Training Images
+#### Comparison between Fake Images and Training Images
 
 ![alt tag](imgs/fake.png)
 
