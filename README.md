@@ -21,7 +21,7 @@ You can go to the official website of [pytorch](https://pytorch.org/get-started/
 The following is the list of the arguments with explaination:
 
 - **--batchSize** : (int) The batch size of your training set. The default value is `16`. Without a powerful GPU/CPU, A small batch size is recommended.
-- **--imgSize** : (int) Size of your output images. The default value is `64`.
+- **--imgSize** : (int) Size of your output images. The default value is `64`, which means the output images will be `64x64`.
 - **--nz** : (int) Length of the latent `z` vector. The default value is `100`.
 - **--ngf** : (int) Size of feature map in generator. The default value is `64`, which means the default feature map is set to `64x64`.
 - **--ndf** : (int) Size of feature map in discriminator. The default value is `64`.
