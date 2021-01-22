@@ -7,7 +7,7 @@ The following image is the architecture of the network.
 
 ### Prerequisites
 
-- Python 3.5 3.6
+- Python 3.5/3.6
 - torch == 1.2.0 (or higher)
 - torchvision == 0.4.0 (or higher)
 
