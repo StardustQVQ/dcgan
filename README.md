@@ -34,7 +34,7 @@ The following is the list of the arguments with explainations:
 
 ### Example Training Output
 
-Due to my limitations on GPU/CPU and network, I have only trained this network on a part of the [cat dataset](https://www.kaggle.com/crawford/cat-dataset) (about 3000 images) on kaggle. And the following is the training outcome on default argument settings (except for the batch size, I set it to `8`).
+Due to my limitations on GPU/CPU and network, I have only trained this network with a part of the [cat dataset](https://www.kaggle.com/crawford/cat-dataset) (about 3000 images) on kaggle. And the following is the training outcome on default argument settings (except for the batch size, I set it to `8`).
 
 #### Training Images
 
