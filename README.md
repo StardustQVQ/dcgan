@@ -49,6 +49,6 @@ Due to my limitations on GPU/CPU and network, I have only trained this network o
 ![alt tag](imgs/fake.png)
 
 ### Reference
-- [GAN Introduction](https://www.kaggle.com/jesucristo/gan-introduction)
+- [DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 
