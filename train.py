@@ -121,7 +121,7 @@ if (device.type == 'cuda') and (ngpu > 1):
     netG = nn.DataParallel(netG, list(range(ngpu)))
 netG.apply(weights_init)
 
-# create Discriminator with the smae apporach
+# create Discriminator with the smae approach
 netD = Discriminator(ndf).to(device)
 if (device.type == 'cuda') and (ngpu > 1):
     netD = nn.DataParallel(netD, list(range(ngpu)))
